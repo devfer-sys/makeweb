@@ -1,6 +1,6 @@
-# Landing Page
+# XD
 
-Landing Page desarrollado en HTML, CSS y Javascript
+XD desarrollado en HTML, CSS y Javascript
 
 ## Comparte
 
